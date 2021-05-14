@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Covid-Vaccination-Book/src"/>
+	<classpathentry kind="lib" path="Covid-Vaccination-Book/lib/jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="Covid-Vaccination-Book/lib/jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="Covid-Vaccination-Book/lib/jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="Covid-Vaccination-Book/lib/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="Covid-Vaccination-Book/lib/jars/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="Covid-Vaccination-Book/lib/jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="Covid-Vaccination-Book/lib/jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="Covid-Vaccination-Book/lib/jars/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="Covid-Vaccination-Book/bin"/>
+</classpath>

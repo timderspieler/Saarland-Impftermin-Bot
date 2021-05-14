@@ -50,21 +50,7 @@ public class Failure extends JFrame {
 		Button button_2 = new Button("X");
 		button_2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				
 				dispose();
-				
-				EventQueue.invokeLater(new Runnable() {
-					public void run() {
-						try {
-							Startseite s = new Startseite();
-							s.setLocation(getLocation());
-							s.setVisible(true);
-						} catch (Exception e) {
-							e.printStackTrace();
-						}
-					}
-				});
-				
 			}
 		});
 		button_2.setForeground(Color.WHITE);
