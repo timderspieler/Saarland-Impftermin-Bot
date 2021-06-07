@@ -24,7 +24,7 @@ Die Software, sobald sie gestartet wurde, öffnet ihren bevorzugten Internet Bro
 
 ## Benötige ich einen Priorisierungscode?[](#benoetige-ich-einen-priorisierungscode)
 
-Damit sie eine Terminverschiebung veranlassen können, müssen sie bereits in der Impfliste des Saarlandes eingetragen sein sowie einen Termin erhalten haben. Das Programm ist lediglich dazu gedacht einen früheren Termin für Sie zu finden.
+~~Damit sie eine Terminverschiebung veranlassen können, müssen sie bereits in der Impfliste des Saarlandes eingetragen sein sowie einen Termin erhalten haben. Das Programm ist lediglich dazu gedacht einen früheren Termin für Sie zu finden.~~ Ab dem 07.06.2021 benötigen sie keinen Priorisierungscode mehr.
 
 ## Wie lange dauert es, bis ich einen Termin vorgeschlagen bekomme?[](#wie-lange-dauert-es-bis-ich-einen-termin-vorgeschlagen-bekomme)
 
