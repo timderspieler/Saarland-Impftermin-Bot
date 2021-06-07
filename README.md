@@ -1,5 +1,8 @@
 # Saarland Impftermin Bot
 
+[![button_download](https://user-images.githubusercontent.com/19387835/121009161-2254c480-c794-11eb-8945-b3938c25c90b.png)](https://github.com/timderspieler/Saarland-Impftermin-Bot/releases/download/1.0/CovidBot.1.0.jar)  [![button_support](https://user-images.githubusercontent.com/19387835/121009583-a4dd8400-c794-11eb-8f12-9a592a7345d3.png)](https://github.com/timderspieler/Saarland-Impftermin-Bot/issues/new/choose)
+
+
 Genervt vom lästigen klicken auf der impfen-saarland.de Webseite? Dann sind Sie hier richtig! Dieses Programm wurde dafür entwickelt ihnen diese Arbeit abzunehmen.
 
 ## Welche Systemvoraussetzungen hat die Software?[](#welche-systemvoraussetzungen-hat-die-software)
